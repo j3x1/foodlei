@@ -5,3 +5,5 @@ Using express framework and (soon to be using) Google Firebase for user authenti
 
 ## What?
 Well, people need food. So this gives people food. Solving world hunger, one first world problem at a time.
+
+## Running
